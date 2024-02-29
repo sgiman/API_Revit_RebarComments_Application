@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<RevitAddIns>
+  <AddIn Type="Application">
+    <Name> RebarCommentsApp</Name>
+    <Assembly>.\RebarCommentsApp\RebarCommentsApp.dll</Assembly>
+    <AddInId>68431043-EF72-4931-AD52-7442358AC591</AddInId>
+    <FullClassName>RebarComments.Application</FullClassName>
+    <VendorId>Sgiman</VendorId>
+    <VendorDescription>sgimancs@gmail.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
