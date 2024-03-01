@@ -7,6 +7,7 @@ Test development task 2021
 ***************************************************************************************
 ## TEST PROJECT (6 days)
 https://drive.google.com/file/d/1dkCnM7lmGgLJaS28PhV6_yCKgBRYTCDL/view?usp=drive_link
+https://drive.google.com/file/d/18taJcOIC1IIHxAeO8QgyPZ1OMLK26_1S/view?usp=drive_link
 ***************************************************************************************
 
 **Sgiman @ 2023**
