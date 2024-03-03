@@ -132,4 +132,4 @@ namespace RebarComments
 
     } //  --- Application : IExternalApplication ---
 
-} // --- Class myFirstPlugin ---
+} // --- Class RebarComments (myFirstPlugin) ---
