@@ -84,6 +84,6 @@ namespace RebarComments
             return sb;
         }
 
-    } // ---  class RebarComments : IExternalCommand ---
+    } // ---  class RebarCommentsAdd : IExternalCommand ---
 
 }
