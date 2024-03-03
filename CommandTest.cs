@@ -61,7 +61,7 @@ namespace RebarComments
         } // ---  Execute (main) ---
 
 
-    } // --- CommandCreatFloor : IExternalCommand ---
+    } // --- CommandTest : IExternalCommand ---
 
 
-} // --- namespace CreateBuild ---
+} // --- namespace RebarComments ---
